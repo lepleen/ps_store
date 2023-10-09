@@ -1,2 +1,2 @@
 # ps_store
-TESTE TESTE TESTE
+Projetos PS store desenvolvido em angular
